@@ -1,18 +1,16 @@
 {
-    "name": "eraasoft-311/project",
-    "description": "frame work package",
+    "name": "aziz/mvc-template",
+    "description": "mvc",
     "type": "project",
-    "require": {
-        "errasoft-311/mvc": "^2.0"
-    },
     "autoload": {
         "psr-4": {
-            "Eraasoft311\\Project\\": "src/"
+            "Aziz\\MvcTemplate\\": "src/"
         }
     },
     "authors": [
         {
-            "name": "aziz-diab"
+            "name": "aziz diab"
         }
-    ]
+    ],
+    "require": {}
 }
