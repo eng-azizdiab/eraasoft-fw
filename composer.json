@@ -1,10 +1,9 @@
 {
-    "name": "aziz/mvc-template",
-    "description": "mvc",
+    "name": "aziz-diab/mvc-fw",
     "type": "project",
     "autoload": {
         "psr-4": {
-            "Aziz\\MvcTemplate\\": "src/"
+            "AzizDiab\\MvcFw\\": "src/"
         }
     },
     "authors": [
